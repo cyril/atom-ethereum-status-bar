@@ -1,7 +1,7 @@
 {
   "name": "ethereum-status-bar",
   "main": "./lib/ethereum-status-bar",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Keep an eye on the latest ETH price while you code!",
   "keywords": [
     "cryptocurrency",
