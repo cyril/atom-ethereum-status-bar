@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle ethereum-status-bar",
+        "command": "ethereum-status-bar:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Ethereum Status Bar",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "ethereum-status-bar:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
