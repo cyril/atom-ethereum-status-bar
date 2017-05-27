@@ -9,7 +9,7 @@
     "eth",
     "price"
   ],
-  "repository": "https://github.com/cyril/ethereum-status-bar",
+  "repository": "https://github.com/cyril/atom-ethereum-status-bar",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
