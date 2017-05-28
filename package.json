@@ -7,7 +7,7 @@
     "cryptocurrency",
     "market",
     "eth",
-    "price"
+    "price-ticker"
   ],
   "repository": "https://github.com/cyril/atom-ethereum-status-bar",
   "license": "MIT",
