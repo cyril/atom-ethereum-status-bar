@@ -6,4 +6,4 @@ The price is provided by [CoinMarketCap](https://coinmarketcap.com/)'s API, expr
 
 ## Example
 
-![Example](https://i.imgur.com/GPSdFB4.png)
+![Example](https://i.imgur.com/CScmxQk.png)
