@@ -6,4 +6,4 @@ The price is provided by [CoinMarketCap](https://coinmarketcap.com/)'s API, expr
 
 ## Example
 
-![Example](https://i.imgur.com/CScmxQk.png)
+![Ξ1 = $177.408](https://i.imgur.com/CScmxQk.png)
